@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-  <h1> Weather Forcast </h1>
+  <h1> Weather Forecast <img src="./public/logo.png" alt="Application"></h1>
   <p>This project based on Task-03 Weather application  by Prodigy InfoTech Internship.
     This project built using React FrameWork and <b>OpenWeathermap API</b>.
  </p>
