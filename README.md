@@ -2,8 +2,9 @@
 <html lang="en">
 <body>
   <h1> Weather Forecast <img src="./public/logo.png" alt="Application"></h1>
-  <p>This project based on Task-03 Weather application  by Prodigy InfoTech Internship.
+  <p>This project based on Task-05 Weather application  by Prodigy InfoTech Internship.
     This project built using React FrameWork and <b>OpenWeathermap API</b>.
+    I Learn about APIs and React framework 
  </p>
   
   <h2>Features</h2>
